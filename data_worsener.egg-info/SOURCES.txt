@@ -1,0 +1,8 @@
+README.md
+setup.py
+data_worsener.egg-info/PKG-INFO
+data_worsener.egg-info/SOURCES.txt
+data_worsener.egg-info/dependency_links.txt
+data_worsener.egg-info/entry_points.txt
+data_worsener.egg-info/requires.txt
+data_worsener.egg-info/top_level.txt

@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: data_worsener
+Version: 0.1
+Requires-Python: >=3.7
+Requires-Dist: numpy
+Requires-Dist: cupy-cuda11x
+Requires-Dist: h5py
+Requires-Dist: tqdm
+Requires-Dist: scikit-image
+Requires-Dist: opencv-python
+Requires-Dist: matplotlib

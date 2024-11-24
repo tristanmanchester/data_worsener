@@ -1,0 +1,3 @@
+[console_scripts]
+segment-data = scripts.segment:main
+worsen-data = scripts.worsen_data:main
