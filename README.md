@@ -14,6 +14,10 @@ The project consists of two main components:
 
 2. **Segmentation Pipeline**: Processes the data using multi-otsu thresholding to create binary segmentations.
 
+<p align="center">
+  <img src="https://github.com/tristanmanchester/data_worsener/blob/main/full_process.png" width="700">
+</p>
+
 ## Installation
 
 ```bash
@@ -84,7 +88,7 @@ Options:
 If you use this code in your research, please cite:
 
 ```bibtex
-
+Me
 ```
 
 ## Acknowledgements
